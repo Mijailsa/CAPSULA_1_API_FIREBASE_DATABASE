@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "proyectosemestralbigdata-ddbd3",
+  "private_key_id": "b8fe1daa7b351885ab7e65dec4b8a79a4521d710",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDbj5zg134O4FHh\n6Y2Shw2wX0EqJqEo9O20mobBjr+L7rQfrJwcTRurr3SXCXdEP9ga5QEts7yHNJJA\n53CEBdqU2mdBwNaBSqO+67Uy4NXEa9bMwEMFmN0KhtGaEPFsM4cKk4k+Vy7ZudzA\nrxR6ymb0sGDN3PiIN430A3S3YmuD+hogmQXhXcVY7KDt2kLTbdquOESRI0gvr/9u\nwrepO4MiL0WXogiyDBUpNWYVlZny00efjag2WRvMeWVdqWIOUThAXTOccbxxe6ms\nCzSAgYb/9R3P843PTSa/xbUkRVkHX6mwhHOWg9ewN9czRKR35r/Ab4uT+5NJOh35\nr2qcvv1TAgMBAAECggEAHbN4O9w608VZnk9rVNqLKgRAuvR90Z4Md+V9fDqUw9e3\nKx+9AIEX0KpMAdCIf0WJtN2swqNxSfL9I+WLDXkDQCapWDY/bj8MFpwpJ2hN0qPp\n60nI5z1uDWn+ebJ4DjSMPIyHwNSnZFGlwLUOdqvhsJEZj0+omTi2rb8370TTmYcg\nDqirO3cLXhBoH7S+WOtaIznqhdakjRYWe8KKVXC66kIWQRcvHlQAYkBHesweZ5Np\nXN6W1SuW4Dl2rbzM79W81itutkE5t3/SpIM3XNowqfq3nqRk0eidFda0jFcIyZfL\nkpuJLl7VGGc2kQFpIqHvo5zWQIZ9hTF9kDQO8DGNxQKBgQDzN3IU+YtfFaB9vaVh\nbO58BKpxeuGL0nHXrN48xL5Km/FTtyZoctgb0JevS4tL6ptQtMHTpDqxI+V5ZYIz\nxqA8jArfeSQzV9057F8K8BPDbQ7EpEDS+WRuzAdywfq8k7Aufn6+jJEvZKI607A6\npMfUukSMRzxGNKeU4NdnhGWddwKBgQDnGd+xVMq1d3CECPt86EKruuR5ZAs8Tpz0\nAGiG9pewl07AEzv2fBHztUKLv1MNUL72JNLp366UITnuvFKXPYWe+MsQA5lOk4+e\neY0f0QmI82C8fmJXFtaviUEvr3l81DrcXapKvBGoIS+BmVjHyS90xopZgyg0ylT6\nnguQ6YbmBQKBgHrfNwY7r9qAnY0Iw0U9+Bm1bbpY3xt5XMQd9ER1DMG6mKe3bnL0\nGhOrRQZtPtlCk+ao+wcGABS/0s2Kp8Wqggc0pMWTeONrbzs1HCr1cLaZIQ3dAVbU\nYZXMA7NJJnggkLBcfYGcmDh+OatIiM6HsuDYnYrU7jF1pngDQy9r5r4vAoGAdaoe\n0tMxQqPFjfRk13wKNhW6LnRZpCMCltl+Xvk+0pK3beRdK2qQWV14vF51ktoB4KFv\nIdTZtmIUdRE9m/OfDQnvmf+7Ft7ayP1qdUChcjE4l8BhoaXnOQjRP85ANOZ58alf\nAx4uf0QmQ/4nzdEJcJOF7X1yAy7hhZjimq3MGWECgYBkkebqS6XQLjJy+WTg7gjl\nmBNb4uFTqml5vvEr56xTyTFWq4wBpDHCSGNxKmV7VgHatQP3PtmB+eEu+v+1YwfA\nKxApOXcHxaQDX609Zz1q35PieMC+v35eaXiwrs8gGP60O/63frdv3iex0eaxwtjN\nzvu3kEp9eIcVe8ZoGKvY5w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6pjno@proyectosemestralbigdata-ddbd3.iam.gserviceaccount.com",
+  "client_id": "115708821433230671141",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6pjno%40proyectosemestralbigdata-ddbd3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
